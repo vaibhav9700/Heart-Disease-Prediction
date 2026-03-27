@@ -12,7 +12,6 @@
 
 ---
 
-
 ## 🚀 Projects
 
 ### ❤️ Heart Disease Prediction System
@@ -21,7 +20,7 @@
 - Includes data preprocessing + real-time prediction UI  
 
 🔗 GitHub Repo:  
-https://github.com/vaibhav9700/Heart-Disease-Prediction  
+https://github.com/vaibhavv-labs/Heart-Disease-Prediction  
 
 🌐 Live Demo:  
 https://heart-disease-prediction-vaibhav.streamlit.app
@@ -38,19 +37,14 @@ https://heart-disease-prediction-vaibhav.streamlit.app
 ---
 
 ## 📊 GitHub Stats
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav9700&show_icons=true&theme=radical)
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavv-labs&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=vaibhav9700&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=vaibhavv-labs&theme=radical)
 
 ---
 
 ## 📫 How to reach me
 - Email: vaibhavbhoyate976@gmail.com
-
----
-
-## ⚡ Fun Fact
-Building my journey from zero to 50 LPA AI Engineer 🚀
